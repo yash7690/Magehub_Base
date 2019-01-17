@@ -1,0 +1,1 @@
+	This is a base module for all Magehub extensions
